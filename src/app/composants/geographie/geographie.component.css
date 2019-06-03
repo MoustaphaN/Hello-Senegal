@@ -1,0 +1,16 @@
+table {
+    border-width:1px; 
+    border-style:solid; 
+    border-color:gray;
+    width:30%;
+    background-color:silver;
+    }
+   td , th { 
+    border-width:1px;
+    border-style:solid; 
+    border-color:gray;
+    width:20%;
+    text-align: center;
+    background-color:silver;
+    }
+  

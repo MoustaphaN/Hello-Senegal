@@ -1,0 +1,28 @@
+#nav {
+	list-style: none ;
+	margin: 0 ;
+	padding: 0 ;
+	overflow: hidden ;	/* Création du contexte de formatage */
+	}
+#nav li {
+	float: left ;
+	width: 150px ;
+	
+	margin-right: 1px ;
+	color: #fff ;
+	
+	}
+#nav li a {
+	display: block ;
+	;
+	color: #fff ;
+	font: 1em "Trebuchet MS",Arial,sans-serif ;
+	line-height: 1em ;
+	padding: 4px 0 ;
+	text-align: center ;
+	text-decoration: none ;
+	}
+#nav li a:hover, #nav li a:focus, #nav li a:active {
+	background: #900 ;
+	text-decoration: underline ;
+	}

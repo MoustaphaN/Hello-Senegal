@@ -1,0 +1,22 @@
+#main {
+	float:left;
+	width:75%;
+	margin: 0 0 50px 0;
+}
+span.elem {
+	
+	color:white;
+	position:absolute;
+	top:0;
+	left:0;
+	margin:0;
+	padding:0.5em;
+	z-index:100;
+  opacity:0.5;
+}
+article aside {
+	background:#fff;
+	margin:1em 3em;
+	padding:0.5em;
+  border:1px dashed #ccc;
+}
